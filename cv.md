@@ -1,5 +1,5 @@
 ***
-![Cat](img\cat.jpg)
+![Cat](.\img\cat.jpg)
 # Aleh Nestser
 Frontend Developer
 ***
